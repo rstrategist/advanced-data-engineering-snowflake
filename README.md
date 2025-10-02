@@ -40,7 +40,6 @@ You can then open the repo in your preferred code editor.
 
 All of the code that you need is within this repo.
 
-<<<<<<< HEAD
 - **module-1** – Corresponds to "Module 1: DevOps with Snowflake" in the course.
 
 - **module-2** – Corresponds to "Module 2: Observability with Snowflake" in the course.
@@ -48,5 +47,4 @@ All of the code that you need is within this repo.
 * **module-1** - "DevOps with Snowflake"
 
 * **module-2** – "Observability with Snowflake"
->>>>>>> ed0888e973570eb46a6b37b068d077e7af7763b4
 
