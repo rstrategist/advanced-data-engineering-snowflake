@@ -39,10 +39,6 @@ You can then open the repo in your preferred code editor.
 #### How to navigate this repo
 
 All of the code that you need is within this repo.
-
-- **module-1** – Corresponds to "Module 1: DevOps with Snowflake" in the course.
-
-- **module-2** – Corresponds to "Module 2: Observability with Snowflake" in the course.
 =======
 * **module-1** - "DevOps with Snowflake"
 
