@@ -1,0 +1,5 @@
+~/.venv
+~/.snowflake
+.env
+config.toml
+connections.toml

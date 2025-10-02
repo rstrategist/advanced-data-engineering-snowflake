@@ -1,5 +1,27 @@
 ## Advanced Data Engineering with Snowflake
 
+<<<<<<< HEAD
+'''
+advanced-data-engineering-snowflake/
+│
+├── .env # your local secrets (NOT committed)
+├── .gitignore # make sure .env is ignored
+├── notebooks/ # your Jupyter notebooks
+├── scripts/ # utility scripts
+│ └── setup_snowflake_config.py
+└── ...
+'''
+
+#### How to use this repo throughout the course:
+
+To successfully follow along with the instructor during the course, you'll need to make use of the code in this repo. To follow along, you can either:
+
+- Keep the URL to this repo handy, so that you can easily find and use any code referenced by the instructor during the course
+
+- Clone the repo to your local computing environment (required)
+
+=======
+>>>>>>> ed0888e973570eb46a6b37b068d077e7af7763b4
 > **Note:** There are a couple of exercises that make use of Snowflake's command line interface, Snowflake CLI. To successfully follow along during those exercises, you'll need to have the repo cloned to your local computing environment, so that the Snowflake CLI can make use of files and code within this repo.
 
 #### How to clone the repo to your local computing environment:
@@ -20,7 +42,13 @@ You can then open the repo in your preferred code editor.
 
 All of the code that you need is within this repo.
 
+<<<<<<< HEAD
+- **module-1** – Corresponds to "Module 1: DevOps with Snowflake" in the course.
+
+- **module-2** – Corresponds to "Module 2: Observability with Snowflake" in the course.
+=======
 * **module-1** - "DevOps with Snowflake"
 
 * **module-2** – "Observability with Snowflake"
+>>>>>>> ed0888e973570eb46a6b37b068d077e7af7763b4
 
